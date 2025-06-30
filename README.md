@@ -51,7 +51,7 @@ This project focuses on analyzing daily activity data collected from 33 FitBit u
 
 ---
 
-##  Resume Summary
+##  Summary
 
 > Analyzed fitness tracker data from 33 users to uncover trends in activity levels, step counts, and calorie expenditure. Visualized correlations and daily patterns using Python libraries such as pandas, matplotlib, seaborn, and plotly.
 
